@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-10-29T14:54:17 IST" name="Default suite" finished-at="2025-10-29T14:54:38 IST" duration-ms="20505">
+    <groups>
+    </groups>
+    <test started-at="2025-10-29T14:54:17 IST" name="Default test" finished-at="2025-10-29T14:54:38 IST" duration-ms="20505">
+      <class name="com.Telecom.ContactApplication">
+        <test-method signature="testAddNewUser()[pri:1, instance:com.Telecom.ContactApplication@62150f9e]" started-at="2025-10-29T14:54:17 IST" name="testAddNewUser" finished-at="2025-10-29T14:54:22 IST" duration-ms="4671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddNewUser -->
+        <test-method signature="testGetUserProfile()[pri:2, instance:com.Telecom.ContactApplication@62150f9e]" started-at="2025-10-29T14:54:22 IST" name="testGetUserProfile" finished-at="2025-10-29T14:54:24 IST" duration-ms="1839" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetUserProfile -->
+        <test-method signature="testUpdateUser()[pri:3, instance:com.Telecom.ContactApplication@62150f9e]" started-at="2025-10-29T14:54:24 IST" name="testUpdateUser" finished-at="2025-10-29T14:54:26 IST" duration-ms="1831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateUser -->
+        <test-method signature="testLoginUser()[pri:4, instance:com.Telecom.ContactApplication@62150f9e]" started-at="2025-10-29T14:54:26 IST" name="testLoginUser" finished-at="2025-10-29T14:54:27 IST" duration-ms="1766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginUser -->
+        <test-method signature="testAddContact()[pri:5, instance:com.Telecom.ContactApplication@62150f9e]" started-at="2025-10-29T14:54:27 IST" name="testAddContact" finished-at="2025-10-29T14:54:29 IST" duration-ms="1733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddContact -->
+        <test-method signature="testGetContactList()[pri:6, instance:com.Telecom.ContactApplication@62150f9e]" started-at="2025-10-29T14:54:29 IST" name="testGetContactList" finished-at="2025-10-29T14:54:31 IST" duration-ms="1607" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetContactList -->
+        <test-method signature="testGetContactAsPerId()[pri:7, instance:com.Telecom.ContactApplication@62150f9e]" started-at="2025-10-29T14:54:31 IST" name="testGetContactAsPerId" finished-at="2025-10-29T14:54:33 IST" duration-ms="1925" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetContactAsPerId -->
+        <test-method signature="testUpadteContact()[pri:8, instance:com.Telecom.ContactApplication@62150f9e]" started-at="2025-10-29T14:54:33 IST" name="testUpadteContact" finished-at="2025-10-29T14:54:34 IST" duration-ms="1662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpadteContact -->
+        <test-method signature="testPartialUpdateContact()[pri:9, instance:com.Telecom.ContactApplication@62150f9e]" started-at="2025-10-29T14:54:34 IST" name="testPartialUpdateContact" finished-at="2025-10-29T14:54:36 IST" duration-ms="1743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPartialUpdateContact -->
+        <test-method signature="testLogOutUser()[pri:10, instance:com.Telecom.ContactApplication@62150f9e]" started-at="2025-10-29T14:54:36 IST" name="testLogOutUser" finished-at="2025-10-29T14:54:38 IST" duration-ms="1605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogOutUser -->
+      </class> <!-- com.Telecom.ContactApplication -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
